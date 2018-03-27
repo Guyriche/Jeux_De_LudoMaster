@@ -1,0 +1,11 @@
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\bin\Debug\ISET_2018_Decouverte.exe.config
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\bin\Debug\ISET_2018_Decouverte.exe
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\bin\Debug\ISET_2018_Decouverte.pdb
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\obj\Debug\ISET_2018_Decouverte.csprojResolveAssemblyReference.cache
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\obj\Debug\ISET_2018_Decouverte.Properties.Resources.resources
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\obj\Debug\ISET_2018_Decouverte.csproj.GenerateResource.Cache
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\obj\Debug\ISET_2018_Decouverte.csproj.CoreCompileInputs.cache
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\obj\Debug\ISET_2018_Decouverte.exe
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\obj\Debug\ISET_2018_Decouverte.pdb
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\obj\Debug\ISET_2018_Decouverte.EcranAccueil.resources
+C:\Users\Alain\source\repos\ISET_2018_Decouverte\ISET_2018_Decouverte\obj\Debug\ISET_2018_Decouverte.EcranPrincipal.resources

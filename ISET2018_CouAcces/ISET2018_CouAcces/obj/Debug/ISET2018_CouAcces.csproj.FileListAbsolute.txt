@@ -1,0 +1,8 @@
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ISET2018_CouAcces\ISET2018_CouAcces\bin\Debug\ISET2018_CouAcces.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ISET2018_CouAcces\ISET2018_CouAcces\bin\Debug\ISET2018_CouAcces.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ISET2018_CouAcces\ISET2018_CouAcces\bin\Debug\ISET2018_CourClasse.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ISET2018_CouAcces\ISET2018_CouAcces\bin\Debug\ISET2018_CourClasse.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ISET2018_CouAcces\ISET2018_CouAcces\obj\Debug\ISET2018_CouAcces.csprojResolveAssemblyReference.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ISET2018_CouAcces\ISET2018_CouAcces\obj\Debug\ISET2018_CouAcces.csproj.CoreCompileInputs.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ISET2018_CouAcces\ISET2018_CouAcces\obj\Debug\ISET2018_CouAcces.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ISET2018_CouAcces\ISET2018_CouAcces\obj\Debug\ISET2018_CouAcces.pdb

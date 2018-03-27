@@ -1,0 +1,48 @@
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\Decouverte csharp.exe.config
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\Decouverte csharp.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\Decouverte csharp.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.csprojResolveAssemblyReference.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranAcceuil.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.Properties.Resources.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.csproj.GenerateResource.Cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.csproj.CoreCompileInputs.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranPrincipal.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranProgression.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranListe.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranAide.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranEditeur.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranHorloge.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranSpirographe.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranAide.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranListe.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranDessin.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranEditeur.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranHorloge.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranPrincipal.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranAcceuil.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranProgression.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranSpirographe.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.Properties.Resources.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.csproj.GenerateResource.Cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.csproj.CoreCompileInputs.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\Decouverte csharp.exe.config
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\Decouverte csharp.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\Decouverte csharp.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte csharp.csprojResolveAssemblyReference.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranCarnaval.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranClavierSouris.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranExplorateur.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranBD1.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\perso.mdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranBD2.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\ISET2018_CouAcces.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\ISET2018_CouGestion.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\ISET2018_CourClasse.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\ISET2018_CouAcces.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\ISET2018_CouGestion.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\bin\Debug\ISET2018_CourClasse.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\Decouverte csharp\Decouverte csharp\obj\Debug\Decouverte_csharp.EcranBD3.resources

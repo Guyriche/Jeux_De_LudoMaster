@@ -1,0 +1,14 @@
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.csprojResolveAssemblyReference.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.EcranPrincipal.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.Properties.Resources.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.csproj.GenerateResource.Cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.csproj.CoreCompileInputs.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\bin\Debug\ProjetsDeJeux.exe.config
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\bin\Debug\ProjetsDeJeux.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\bin\Debug\ProjetsDeJeux.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.EcranRègles.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.EcranMenuFr.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.EcranMenuEn.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even th(Mr Alexandre)\ProjetsDeJeux\ProjetsDeJeux\obj\Debug\ProjetsDeJeux.EcranTableDeJeux.resources
